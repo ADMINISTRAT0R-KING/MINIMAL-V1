@@ -2,7 +2,7 @@
   "name": "Minimal PWA",
   "short_name": "PWA Demo",
   "display": "standalone",
-  "start_url": "../index.html",
+  "start_url": "https://administrat0r-king.github.io/MINIMAL-V1/",
   "theme_color": "#313131",
   "background_color": "#313131",
   "icons": [
